@@ -1,0 +1,1 @@
+Run a one of 'Penerapan Model' first

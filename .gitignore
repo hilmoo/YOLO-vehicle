@@ -12,4 +12,6 @@ trafic_data/*
 *.pt
 
 asset_penerapan/result/*
+!asset_penerapan/result/README.md
 asset_penerapan/source/*
+!asset_penerapan/source/README.md
