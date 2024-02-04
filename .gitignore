@@ -1,0 +1,15 @@
+.ipynb_checkpoints
+
+wandb/*
+!wandb/README.md
+
+runs/*
+!runs/README.md
+
+trafic_data/*
+!trafic_data/README.md
+
+*.pt
+
+asset_penerapan/result/*
+asset_penerapan/source/*

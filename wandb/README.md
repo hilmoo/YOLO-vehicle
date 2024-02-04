@@ -1,0 +1,1 @@
+This folder is created only if you train a model.
